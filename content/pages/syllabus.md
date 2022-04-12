@@ -4,9 +4,11 @@ draft: false
 title: Syllabus
 uid: 23c1860a-fceb-417a-9218-4dbb5a4ba1ed
 ---
-## Course Meeting Times!
+## Course Meeting Times
 
-Lectures: 2 sessions / week, 1 hour / session
+Methane: CH{{< sub "4" >}} and others {{< sup "2+2" >}}or {{< sup "2-2" >}}or{{< sup "2*2" >}}
+
+Lectures: 2 sessions / week, 1 hour / session catz
 
 Recitations: 1 session / week, 1 hour / session
 
