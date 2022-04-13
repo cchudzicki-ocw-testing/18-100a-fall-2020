@@ -6,7 +6,7 @@ uid: 23c1860a-fceb-417a-9218-4dbb5a4ba1ed
 ---
 ## Course Meeting Times
 
-{{% resource_link 698510e9-66f7-4db4-993f-ef128278f19f "Midterm "cats" Exam (PDF)" %}}
+{{% resource_link 698510e9-66f7-4db4-993f-ef128278f19f "<>Midterm "cats" Exam (PDF)" %}}
 
 Methane: CH{{< sub "4" >}} and others {{< sup "2+2" >}}or {{< sup "2-2" >}}or{{< sup "2*2" >}}
 
