@@ -1,18 +1,14 @@
 ---
 content_type: page
+description: This page includes Course Meeting Times, Prerequisites, Course Description,
+  textbook, homework and exam, and grading.
 draft: false
 title: Syllabus
 uid: 23c1860a-fceb-417a-9218-4dbb5a4ba1ed
 ---
-## Course Meeting Times!
+## Course Meeting Times 
 
-{{% resource_link "698510e9-66f7-4db4-993f-ef128278f19f" "<>Midterm more \"pets\" and \"cats\" Exam (PDF)" %}}
-
-Methane: CH{{< sub "4" >}} and others {{< sup "2+2" >}}or {{< sup "2-2" >}}or{{< sup "2*2" >}}
-
-Methane: CH{{< sub "4" >}} and others {{< sup "2\+2" >}}or {{< sup "2\-2" >}}or{{< sup "2\*2" >}}
-
-Lectures: 2 sessions / week, 1 hour / session catzzzz
+Lectures: 2 sessions / week, 1 hour / session
 
 Recitations: 1 session / week, 1 hour / session
 
@@ -26,7 +22,7 @@ This course covers the fundamentals of mathematical analysis: convergence of seq
 
 ## Textbook
 
-Lebl, Jiri. *Basic Analysis: Introduction to Real Analysis (Vol. 1)*.
+Lebl, Jiří. *Basic Analysis I: Introduction to Real Analysis, Volume 1*. CreateSpace Independent Publishing Platform, 2018. ISBN: 9781718862401.
 
 This book is available as [a free PDF download](https://www.jirka.org/ra/). You can purchase a paper copy by following a link at the same site.
 
@@ -34,7 +30,7 @@ This book is available as [a free PDF download](https://www.jirka.org/ra/). You 
 
 The written homework is extremely important (mathematics is not a spectator sport). The best way to test your knowledge of a concept is to try and use it; this is why you work problems. Collaboration with other students in the class is encouraged, but separate solutions must be written up and collaborators documented at the top right-hand corner of all submitted work. In general, late homework will not be accepted. However, circumstances may arise that warrant an extension; such an extension request should be emailed to the instructor. The lowest individual homework grade will be dropped when computing the final homework grade for the course.
 
-There midterm exam is a 24-hour take-home exam.
+The midterm exam is a 24-hour take-home exam.
 
 ## Grading
 
@@ -43,5 +39,3 @@ Assignments 1-12 account for 50% of the course grade, the midterm accounts for 2
 ## Schedule Note
 
 This class took place during the COVID-19 pandemic while students were not on campus. Prerecorded lectures for each week were posted on the class website each Monday. Recitations and Office Hours were conducted online.
-
-{{< resource uuid="7b9a5003-36e9-4d0f-8b84-20ef9762189e" >}}
